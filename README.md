@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya1314
+- 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in ASP.NetCore
 - 🌱 I’m currently learning CICD PipeLine
 
